@@ -17,17 +17,6 @@ This project demonstrates how to create an intelligent chatbot using Groq AI, au
 - Google Sheets (data storage)
 - Wikipedia and Calculator (AI tools)
 
-## Project screenshots
-
-- Workflow overview:  
-  [Insert image link here]
-
-- Example spreadsheet:  
-  [Insert image link here]
-
-- Chat interface in action:  
-  [Insert image link here]
-
 ## Step-by-step: Building the workflow
 
 1. **Create a new workflow**
@@ -90,7 +79,7 @@ https://edsoncopque.app.n8n.cloud/webhook/3db478a9-177a-4c07-89fc-e1fe0ca1c5b9/c
 
 Feel free to open issues, suggest improvements, or customize the workflow for other use cases such as customer support, CRM integration, or automated FAQ systems.
 
-## Images
+## Project screenshots
 ![readme](https://github.com/ecopque/chat-ai-n8n-automation/blob/main/prints/Screenshot%20from%202025-07-22%2017-03-46.png)
 ![readme](https://github.com/ecopque/chat-ai-n8n-automation/blob/main/prints/Screenshot%20from%202025-07-22%2017-03-56.png)
 ![readme](https://github.com/ecopque/chat-ai-n8n-automation/blob/main/prints/Screenshot%20from%202025-07-22%2017-04-05.png)
